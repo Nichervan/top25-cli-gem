@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require './lib/top25'
+Cli.new.search_for
